@@ -1,3 +1,3 @@
-Jiawei Zhao
-Computer Science & Mathamatics 
-Expected graduation year: 2029
+Jiawei Zhao \n
+Computer Science & Mathamatics \n
+Expected graduation year: 2029 \n
